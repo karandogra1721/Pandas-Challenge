@@ -1,0 +1,42 @@
+﻿School District Analysis Report
+By: Karan Dogra
+District Summary:
+The district comprises 15 schools with a total student population of 39,170. The overall academic performance reflects an average math score of 78.99 and an average reading score of 81.88. The percentage of students passing math, reading, and both subjects stands at 74.99%, 85.81%, and 65.17% respectively.
+School Summary:
+School Types:
+* The District contains a mix of Charter and District schools.
+* Charter Schools tend to have smaller population than District Schools.
+        Budget and Per Student Spending:
+* District schools have significantly bigger budget than Charter schools.
+* Charter Schools have smaller per student budget.
+        Academic Performance:
+* The average Passing Math and Passing Reading score for Charter schools is higher than that of District schools.
+* Overall Passing Rate for Charter Schools is significantly higher than District school.
+Top Performing Schools and Bottom Performing Schools:
+* The top three performing schools are all Charter Schools:
+   * Carbera High School (91.33 % Overall Passing Rate)
+   * Thomas High School (90.95 % Overall Passing Rate)
+   * Griffin High School (90.60 % Overall Passing Rate)
+* These schools prioritize both math and reading proficiency, resulting in high overall passing rates.
+* The bottom three performing schools are all District Schools:
+   * Rodriguez High School (52.99 % Overall Passing Rate)
+   * Figueroa High School (53.20 % Overall Passing Rate)
+   * Huang High School (53.51 % Overall Passing Rate)
+* Identifying challenges and implementing tailored strategies can contribute to academic improvement in these schools.
+Academic Performance by Grade:
+* Math Score By Grade:
+   * Analysis of math scores by grade indicates potential areas for improvement or reinforcement in specific grades and schools.
+* Reading Score By Grade:
+   * Similar patterns emerge in reading scores by grade, offering insights into academic strengths and weaknesses.
+School Performance by Spending:
+* Spending Impact on Academic Performance:
+   * A breakdown of school performance by spending range does not reveal a clear correlation between higher spending and improved academic outcomes.
+   * Schools with lower budgets have achieved higher passing rates, emphasizing the importance of effective resource utilization.
+School Performance by Size:
+* This analysis catrgotizes schools into small, medium and large based on student enrollment.
+* There is not much to differentiate among three categories, but we can conclusively say that schools with size more than 2000 have a significantly low Overall Passing Rate.
+School Performance by Type:
+* The performance analysis by school type shows charter schools outperforming district schools in overall passing rates.
+* Charter schools may benefit from their unique structures, enabling them to implement targeted strategies for academic success.
+Conclusion:
+The school district analysis provides a comprehensive overview of academic performance, spending, size, and school type. While certain patterns emerge, the data emphasizes the need for tailored interventions based on individual school characteristics. This report serves as a foundation for further exploration, enabling stakeholders to make informed decisions to enhance overall student success.
